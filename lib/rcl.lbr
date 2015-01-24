@@ -14767,7 +14767,7 @@ Source: TOP MAGNETICS CORPORATION .. tfi.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="R-EU_" prefix="R0603S" uservalue="yes">
+<deviceset name="R-EU_" prefix="R" uservalue="yes">
 <description>&lt;B&gt;RESISTOR&lt;/B&gt;, European symbol
 
 Reflow soldering profile</description>
